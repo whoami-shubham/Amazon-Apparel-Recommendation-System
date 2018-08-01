@@ -20,3 +20,7 @@
     then you should get 300+n -d vector for each row
  10. now use keras  tensorflow to convert images into d-dimensional vector using VGG16 to get image based similarity .let's say this data      cnn
  11. now combine (word2vec + extrafeature) + cnn
+
+output would look like this
+
+![Alt text](img.png?raw=true "output")
