@@ -10,7 +10,7 @@
      include in your model or that feature is null 
  3. remove duplicate rows or which have very less difference
  4. remove stop words
- 5. try bag of words , tf-idf , idf  based model for text based similarity and keep that fit best to your requirements
+ 5. try bag of words , tf-idf and idf  based model for text based similarity and keep that fit best to your requirements
  6. try different versions of  word2vec model for schematic based similarity 
  7. combine text based similarity model and schematic based model using weighted word2vec
  8. now if you want to give some weights to your features ( i have used color and brand)  and want to use along with title <br>
