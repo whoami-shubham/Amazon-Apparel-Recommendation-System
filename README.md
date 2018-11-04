@@ -1,5 +1,6 @@
 # Amazon-Apparel-Recommendation-System
-    Content based recommendation system 
+Content based recommendation system 
+it was project of workshop at [AAIC](http://www.appliedaicourse.com) all necessary data were provided by [AAIC](http://www.appliedaicourse.com)
 ## requirements ##
       anaconda , tensorflow , nltk, gensim,keras 
       or you can install each module manually 
